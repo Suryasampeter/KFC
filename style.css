@@ -1,0 +1,145 @@
+.sign{
+    background: 500px ;
+    height: 100px;
+     text-align: justify;
+display: flex;    
+}
+
+.sign img{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.sign button{
+    background: none;
+    font-size: 20px;
+    padding: 20px 20px ;
+    color: black;
+    border: none;
+    cursor: pointer;
+    margin-left: 80%;
+
+    
+}
+
+.navbar-collapse{
+    display: flex;
+    background: gray;
+    height: 10%;
+    width: 100%;
+    justify-content: space-between;
+   
+
+}
+
+.button{
+    border: white;
+    color: white;
+    background: black;
+    padding: 20px 20px;
+    cursor: pointer;
+
+}
+
+
+
+.cards{
+    width: 70%;
+    height: 60vh;
+    background: url();
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+.card1 img{
+    width:50%;
+    height: 50vh;
+}
+
+.card2 img{
+    width:50%;
+    height: 50vh;
+}
+
+.card3 img{
+    width:50%;
+    height:50vh;
+}
+
+
+
+
+.card1 h1{
+    color:black;
+    font-size: 20px;
+}
+
+.card2 h1{
+    color: black;
+    font-size: 20px;
+}
+
+.card3 h1{
+    color:black;
+    font-size: 20px;
+}
+
+.cards button{
+    background: red;
+    cursor: pointer;
+    border: none;
+    
+}
+
+
+
+.code img{
+      width: 1000px;
+    height: 250px;
+    margin-left: 20%;
+}
+
+
+
+
+.text{
+    margin-top: 100px;
+   background: red;
+    height: 200px;
+    width: 1000px;
+    text-align: center;
+}
+
+.text2 img{
+    height: 35px;
+    width: 35px;
+    margin-left: 10%;
+}
+.text2{
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
